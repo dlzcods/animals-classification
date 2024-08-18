@@ -1,2 +1,8 @@
 # ignore indonesian version
-notebook\Animals_Classification_16x - 16_08.ipynb
+notebook/Animals_Classification_16x_16_08.ipynb
+
+# ignore all model types
+all_model_types/
+saved_model/
+tfjs_model/
+tflite_model/
