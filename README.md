@@ -7,7 +7,7 @@ This project explores the application of convolutional neural networks (CNNs) fo
 - The model was able to classify at least 3 different classes
 
 ## Dataset
-To support the define objectives, the [dataset](https://www.kaggle.com/datasets/piyushkumar18/animal-image-classification-dataset) was obtained from kaggle with 12 different classes and 17000+ data. However, due to limited resources, only 10 classes will be used in this project.
+To support the define objectives, the [dataset](https://www.kaggle.com/datasets/piyushkumar18/animal-image-classification-dataset) was obtained from kaggle with 12 different classes and 17000+ data. However, due to limited resources, only 10 classes were used in this project.
 
 ## Model Evaluation
 ### Training & Validation Accuracy
