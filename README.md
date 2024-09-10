@@ -1,6 +1,9 @@
 # Animals Classification
 This project explores the application of convolutional neural networks (CNNs) for the task of animal image classification. I have curated a dataset of diverse animal images and employed transfer learning to fine-tune pre-trained models on our specific task. The goal is to achieve high classification accuracy and contribute to the field of computer vision.
 
+## Demo
+https://huggingface.co/spaces/dielz/animals-classifier-demo
+
 ## To Do
 - Using a dataset with a total amount of 10000+ data
 - Training and test accuracy of at least 95%
